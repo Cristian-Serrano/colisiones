@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab6de2c-85b8-4f33-a5de-2a72688db87a" name="Changes" comment="primer comit" />
+    <list default="true" id="7ab6de2c-85b8-4f33-a5de-2a72688db87a" name="Changes" comment="rama cristian" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Cristian-Serrano"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="797e7262-7aeb-4c27-8b0b-15b1fd04a3b5" />
+        <option name="url" value="https://github.com/Cristian-Serrano/colisiones.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -27,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Cristian",
     "last_opened_file_path": "/home/cristianserrano/IdeaProjects/untitled",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -60,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700552393293</updated>
       <workItem from="1700552394326" duration="24000" />
-      <workItem from="1700552433666" duration="1294000" />
+      <workItem from="1700552433666" duration="1931000" />
     </task>
     <task id="LOCAL-00001" summary="primer comit">
       <option name="closed" value="true" />
@@ -70,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700553292260</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rama cristian">
+      <option name="closed" value="true" />
+      <created>1700553818221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700553818221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primer comit" />
+    <MESSAGE value="rama cristian" />
+    <option name="LAST_COMMIT_MESSAGE" value="rama cristian" />
   </component>
 </project>
