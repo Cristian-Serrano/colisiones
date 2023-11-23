@@ -10,4 +10,11 @@ public class Main {
         System.out.println("Cuadrado de lado 3.4: "+areaCuadrado(3.4d));
         System.out.println("Rectangulo (altura 6, base 10) "+areaRectángulo(6,10));
     }
+    public static BigDecimal circulo(BigDecimal radio){
+        return BigDecimal.valueOf(Math.PI).multiply(radio.pow(2));
+    }
+    
+    public static BigDecimal pentagono(BigDecimal apotema, BigDecimal lado){
+        return ((lado.multiply(BigDecimal.valueOf(5))).multiply(apotema)).divide(BigDecimal.TWO);
+    }
 }
